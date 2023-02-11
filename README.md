@@ -1,3 +1,10 @@
+# readme
+
+Update the script 
+
+* to use exif
+* sort by manufacturer and model
+
 # synology-photos-auto-sort
 A script to rename, move and sort images and videos files from a source folder to a target folder.
 
